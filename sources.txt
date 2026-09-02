@@ -1,0 +1,13 @@
+﻿S:\Dev VS Code\chess-system-java\src\application\Program.java
+S:\Dev VS Code\chess-system-java\src\application\UI.java
+S:\Dev VS Code\chess-system-java\src\boardgame\Board.java
+S:\Dev VS Code\chess-system-java\src\boardgame\BoardException.java
+S:\Dev VS Code\chess-system-java\src\boardgame\Piece.java
+S:\Dev VS Code\chess-system-java\src\boardgame\Position.java
+S:\Dev VS Code\chess-system-java\src\chess\ChessException.java
+S:\Dev VS Code\chess-system-java\src\chess\ChessMatch.java
+S:\Dev VS Code\chess-system-java\src\chess\ChessPiece.java
+S:\Dev VS Code\chess-system-java\src\chess\ChessPosition.java
+S:\Dev VS Code\chess-system-java\src\chess\Color.java
+S:\Dev VS Code\chess-system-java\src\chess\pieces\King.java
+S:\Dev VS Code\chess-system-java\src\chess\pieces\Rook.java
